@@ -1,0 +1,33 @@
+INFO	2021-07-31 20:56:56,845	0	Insight Banking App	[main]	new customer entered into CREATE ACCOUNT section
+INFO	2021-07-31 20:56:56,845	0	Insight Banking App	[main]	customer came to getCustomerDetails method to enter inputs manually
+INFO	2021-07-31 20:57:36,412	39567	Insight Banking App	[main]	account number of 9 digits and cifid of 5 degits generated using random method
+ERROR	2021-07-31 20:57:36,442	39597	Insight Banking App	[main]	Customer account not created as entered invalid details
+INFO	2021-07-31 20:58:18,464	81619	Insight Banking App	[main]	new customer entered into CREATE ACCOUNT section
+INFO	2021-07-31 20:58:18,464	81619	Insight Banking App	[main]	customer came to getCustomerDetails method to enter inputs manually
+INFO	2021-07-31 20:58:43,858	107013	Insight Banking App	[main]	account number of 9 digits and cifid of 5 degits generated using random method
+ERROR	2021-07-31 20:58:43,861	107016	Insight Banking App	[main]	Customer account not created as entered invalid details
+FATAL	2021-07-31 20:59:07,789	130944	Insight Banking App	[main]	Customer selected invalid option
+INFO	2021-07-31 20:59:13,926	137081	Insight Banking App	[main]	customer choosen the exit option
+INFO	2021-07-31 21:08:59,826	0	Insight Banking App	[main]	customer rodan123 entered into CUSTOMER LOGIN section
+INFO	2021-07-31 21:09:24,407	24581	Insight Banking App	[main]	new customer entered into CREATE ACCOUNT section
+INFO	2021-07-31 21:09:24,407	24581	Insight Banking App	[main]	customer came to getCustomerDetails method to enter inputs manually
+INFO	2021-07-31 21:09:52,591	52765	Insight Banking App	[main]	account number of 9 digits and cifid of 5 degits generated using random method
+INFO	2021-07-31 21:09:52,596	52770	Insight Banking App	[main]	customer has successfully created account with cif Id: 20493
+INFO	2021-07-31 21:10:05,899	66073	Insight Banking App	[main]	customer choosen the exit option
+INFO	2021-07-31 21:13:15,804	0	Insight Banking App	[main]	Employee entered into EMPLOYEE LOGIN section with userNameadjoshi
+INFO	2021-07-31 21:13:16,075	271	Insight Banking App	[main]	Employee validated and sending to EmployeePage class with UserName adjoshi
+INFO	2021-07-31 21:13:16,076	272	Employee's Page	[main]	customer entered into his functionalities
+INFO	2021-07-31 21:13:25,902	10098	Employee's Page	[main]	Employee Entered Approve or Deny Account section
+INFO	2021-07-31 21:13:59,631	43827	Employee's Page	[main]	Employee Retrieved customer details i.e.,Customers [customerCifId=20493, customerFirstName=Naman, customerLastName=Gupta, customerUserName=mrnaman, customerPassword=abcd123, accountNumber=617421872, accountBalance=1000]
+INFO	2021-07-31 21:14:08,221	52417	Employee's Page	[main]	Employee Approved the customer with account Number617421872
+INFO	2021-07-31 21:14:13,725	57921	Employee's Page	[main]	Employee Entered Approve or Deny Account section
+INFO	2021-07-31 21:14:25,155	69351	Employee's Page	[main]	Employee Retrieved customer details i.e.,Customers [customerCifId=85992, customerFirstName=Anmol, customerLastName=Verma, customerUserName=rodan123, customerPassword=123123, accountNumber=647817673, accountBalance=500]
+INFO	2021-07-31 21:14:26,710	70906	Employee's Page	[main]	Employee Approved the customer with account Number647817673
+INFO	2021-07-31 21:14:34,675	78871	Employee's Page	[main]	Employee entered Logged out successfully 
+INFO	2021-07-31 21:14:55,646	99842	Insight Banking App	[main]	customer mrnaman entered into CUSTOMER LOGIN section
+INFO	2021-07-31 21:14:55,851	100047	Insight Banking App	[main]	customer validated and sending to CustomerPage class with userNamemrnaman
+INFO	2021-07-31 21:14:55,851	100047	Customer's Page	[main]	customer entered into his functionalities
+INFO	2021-07-31 21:15:17,400	121596	Customer's Page	[main]	Customer entered TRANSFER MONEY section 
+INFO	2021-07-31 21:15:37,722	141918	Customer's Page	[main]	customer transfered Rs.500 to 647817673  successfully, current balance is 500
+INFO	2021-07-31 21:15:46,200	150396	Customer's Page	[main]	customer click on logout and logged out successfully 
+INFO	2021-07-31 21:15:48,173	152369	Insight Banking App	[main]	customer choosen the exit option
